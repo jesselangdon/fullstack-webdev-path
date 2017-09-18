@@ -1,6 +1,8 @@
 # Full Stack Web Developer Path
-This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. <br>
-The idea behind this repo is to have a place to log the learning process in an organized way.  <br><br>
+This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node.
+<br>
+The idea behind this repo is to have a place to log the learning process in an organized way.
+<br><br>
 This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/) curriculum
 
 ------
@@ -11,8 +13,8 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
-|  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) or Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
+|  | Course | Watch [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/) lectures on edX |  ||
+|  | Course |  FCC's [HTML and CSS](https://www.freecodecamp.org/map) challenges |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 |   | Course | Learn flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
